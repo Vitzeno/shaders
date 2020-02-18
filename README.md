@@ -23,3 +23,10 @@
 ![](/video/Warp.gif)
 
   A standard surface shader, effect is acheived by applying on offset in both direction of the uv. The offset is based on a sin wave and _Time.y.
+  
+## Flat Lighting (Cartoon Style)
+
+![](/video/Toon.png)
+
+  A simple lighting shader, based on the Lambertian model with a slight variations. Gradient between light and dark is reduced and a small rim is applied, rim is simply an inverted specular highlight.
+
