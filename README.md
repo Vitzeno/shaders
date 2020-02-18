@@ -8,7 +8,7 @@
 
 ## Edge Detection (Cell Shading Style)
 
-![](/video/Edge Detection.gif)
+![](/video/EdgeDetection.gif)
 
   An image shader applied to the entire screen, effect is acheived by offseting the uv by a small amount and then calculating the distance between the offset and original. Any distance below a threshold is combined with colour to create an edge effect with custom colours.
 
